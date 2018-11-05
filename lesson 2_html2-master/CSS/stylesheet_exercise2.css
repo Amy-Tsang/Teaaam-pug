@@ -1,0 +1,39 @@
+
+  .color-info{
+    margin: 30px
+    border: 3px solid #000
+  }
+
+  .important{
+    font-size: 16px;
+    font-weight: bold
+  }
+/*
+  .nav li a {
+    background-color: red;
+    color: white
+  }
+*/
+  a:link{
+    background-color:red;
+    color:white
+  }
+  a:visited {
+    color: blue
+  }
+
+  #about_blue {
+    background-color: #6495ED
+  }
+
+  #about_blue li {
+    color:blue
+  }
+
+  #about_yellow {
+    background-color:#FFEBCD
+  }
+
+  #about_yellow li {
+    color:orange
+  }
